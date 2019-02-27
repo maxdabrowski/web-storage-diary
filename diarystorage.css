@@ -3,7 +3,7 @@
 }
 body {
    /* background: url(images/background.jpg);*/
-    background:red;
+    background-color:red;
     background-repeat: repeat-y;
     background-size: 100%;
 } 
