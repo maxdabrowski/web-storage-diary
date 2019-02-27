@@ -2,8 +2,7 @@
     box-sizing: border-box;
 }
 body {
-   /* background: url(images/background.jpg);*/
-    background-color:red;
+    background: url(images/background.jpg);
     background-repeat: repeat-y;
     background-size: 100%;
 } 
