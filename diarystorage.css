@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body {
-    background: url(images/background.jpg);
+    background: url(background.jpg);
     background-repeat: repeat-y;
     background-size: 100%;
 } 
@@ -119,7 +119,7 @@ body {
 
 
 .diary-list-cnt{
-    background: url(images/kratka.jpg)
+    background: url(kratka.jpg)
 }
 .diary-note{
     overflow:auto;
