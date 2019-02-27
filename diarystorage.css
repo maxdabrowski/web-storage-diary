@@ -69,7 +69,7 @@ body {
     align-items: center;
     margin-bottom:0.5rem;
 }
-.diary-element-date {
+.diary-element-date { 
     margin:0;
     font-size:2.0rem;
     font-weight: normal;
